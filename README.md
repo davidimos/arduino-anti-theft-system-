@@ -1,0 +1,2 @@
+# arduino-anti-theft-system-
+This project represents a safety system for motorcycles using MEMS accelerometer sensor adxl345, push button and speaker. When the person leaves the motorcycle, he/she can start the system with the push button integrated on the vehicle, then the accelerometer is reading different acceleration values on the x, y and z axis. When the given acceleration value written in the code is crossed (someone has attempted to move the motorcycle), the speaker alarms the owner or people nearby.
